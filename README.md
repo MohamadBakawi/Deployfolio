@@ -3,7 +3,7 @@ Link: https://main.d2hucdttb403k5.amplifyapp.com/
 
 **DeployFolio** is a full-stack website that allows developers to import their GitHub projects and create a publicly accessible personal website.
 
-Moreover, an **HR account type** exists, providing HR tools for discovering and viewing developer profiles. Thus, both parties benefit from the platform through **job hunting and recruiter headhunting**.
+Moreover, an **HR account type** exists, providing HR tools for discovering and viewing developer profiles. Thus, both parties benefit from the platform in the schemes of **developer visibility and recruiter headhunting**.
 
 Great care was taken to tackle common friction points using **AI and ML**.
 
